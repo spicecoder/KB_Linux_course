@@ -1,0 +1,31 @@
+1 : - What are some of the objectives of the Linux Foundation? Select all answers that apply ?
+Answer : -
+    (a) The Linux Foundation promotes Linux and supports open-source collaboration and education across industries.
+
+    (b) It works to improve Linux as a technical platform by funding development and coordinating kernel work.
+
+    (c) The Foundation sponsors Linus Torvalds, the creator and main maintainer of the Linux kernel.
+
+2 : - Debian provides the largest and most complete software repository to its users of any Linux distribution. True or False?
+    Answer : -(true)
+    Debian is well-known for having one of the largest and most complete software repositories among all Linux distributions.
+    It includes tens of thousands of packages, covering almost every category of open-source software — from desktop tools to server applications.
+    Many other distributions (like Ubuntu) are even based on Debian and use its repositories as a foundation.
+
+3 : -Fedora serves as a downstream testing platform for RHEL. True or False?
+    Answer : -(false)
+    Fedora actually serves as an upstream testing and development platform for Red Hat Enterprise Linux (RHEL) — not downstream.
+    That means:
+    New features and updates are introduced and tested first in Fedora.
+    Once they are stable and mature, they are then integrated into RHEL.
+
+4 : -The Red Hat distribution family includes which of the following (Select all answers that apply)
+
+    Answer : -
+    The Red Hat distribution family includes:
+    Red Hat Enterprise Linux (RHEL) — the commercial version.
+    Fedora — the upstream community version (where new features are tested).
+    CentOS — the downstream version (a free, RHEL-compatible distribution).
+    The others are not part of the Red Hat family:
+    Ubuntu → belongs to the Debian family.
+    SLES (SUSE Linux Enterprise Server) and openSUSE → belong to the SUSE family.
