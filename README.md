@@ -19,3 +19,6 @@ Containers enabled reproducible delivery and microservices patterns.
 An Intention Space layer would raise design-time semantics: intent models, CPUX flows, and runtime conformance bringin Linux kernel ability into end user application level
 Tooling will need to validate intent, monitor conformance, and map intents to runtime artifacts.
  
+Usefull links
+
+1. https://www.bing.com/videos/riverview/relatedvideo?q=linux+kernel+standalone&mid=00BDAE63A0908AE1FCD100BDAE63A0908AE1FCD1&FORM=VIRE
